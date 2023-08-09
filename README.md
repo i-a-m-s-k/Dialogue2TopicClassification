@@ -32,5 +32,6 @@ Dataset is under dataset folder under SubTask A.
  
 # Working Notes Paper
 Working Notes Paper Available at: [Click here](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-119.pdf)
-This Working Notes Paper contains an Introduction to patient-dialogue conversations, data preprocessing, ML and DL Models used, qualitative analysis of best performing models, performance on validation and test data.  
+
+This Working Notes Paper contains an introduction to patient-dialogue conversations, data preprocessing, ML and DL Models used, qualitative analysis of best performing models, performance on validation and test data.  
  
